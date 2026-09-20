@@ -2,7 +2,7 @@ return {
     descriptions = {
         Planet = {
             c_mxms_cancri = {
-                name = 'Cancri',
+                name = '55 Cancri e',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -11,7 +11,7 @@ return {
                 },
             },
             c_mxms_corot = {
-                name = 'Corot',
+                name = 'CoRoT-7b',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -20,7 +20,7 @@ return {
                 },
             },
             c_mxms_gliese = {
-                name = 'Gliese',
+                name = 'Gliese 581c',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -29,7 +29,7 @@ return {
                 },
             },
             c_mxms_kepler = {
-                name = 'Kepler',
+                name = 'Kepler-10c',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -38,7 +38,7 @@ return {
                 },
             },
             c_mxms_microscopii = {
-                name = 'Microscopii',
+                name = 'AU Microscopii b',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -47,7 +47,7 @@ return {
                 },
             },
             c_mxms_pegasi = {
-                name = 'Pegasi',
+                name = '51 Pegasi b',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -74,7 +74,7 @@ return {
                 },
             },
             c_mxms_proxima = {
-                name = 'Proxima Centauri',
+                name = 'Proxima Centauri b',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -83,7 +83,7 @@ return {
                 },
             },
             c_mxms_trappist = {
-                name = 'Trappist',
+                name = 'TRAPPIST-1e',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -92,7 +92,95 @@ return {
                 },
             },
             c_mxms_wasp = {
-                name = 'Wasp',
+                name = 'WASP-12b',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_varuna = {
+                name = 'Varuna',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_orcus = {
+                name = 'Orcus',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_gonggong = {
+                name = 'Gonggong',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_tyche = {
+                name = 'Tyche',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_chiron = {
+                name = 'Chiron',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_vesta = {
+                name = 'Vesta',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_pallas = {
+                name = 'Pallas',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_juno = {
+                name = 'Juno',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_hygiea = {
+                name = 'Hygiea',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_salacia = {
+                name = 'Salacia',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_Chariklo = {
+                name = 'Chariklo',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -105,19 +193,22 @@ return {
     misc = {
         dictionary = {
             k_mxms_exoplanet = 'Exoplanet'
+            k_mxms_centaur = 'Centaur'
+            k_asteroid = 'Asteroid'
+            k_planet_q = 'Planet?'
         },
         poker_hands = {
             ["mxms_6oak"] = "Six of a Kind",
-            ["mxms_double_triple"] = "Double Triple",
+            ["mxms_double_triple"] = "Two Trios",
             ["mxms_f_6oak"] = "Flush Six",
-            ["mxms_f_double_triple"] = "Flush Double Triple",
-            ["mxms_f_party"] = "Flush Party",
-            ["mxms_f_three_pair"] = "Flush Three Pair",
-            ["mxms_house_party"] = "House Party",
-            ["mxms_s_flush"] = "Super Flush",
-            ["mxms_s_straight_f"] = "Super Straight Flush",
-            ["mxms_s_straight"] = "Super Straight",
-            ["mxms_three_pair"] = "Three Pair",
+            ["mxms_f_double_triple"] = "Flushed Two Trios",
+            ["mxms_f_party"] = "Monochromatic Mansion",
+            ["mxms_f_three_pair"] = "Flushed Three Pairs",
+            ["mxms_house_party"] = "Mansion",
+            ["mxms_s_flush"] = "Long Flush",
+            ["mxms_s_straight_f"] = "Long Straight Flush",
+            ["mxms_s_straight"] = "Long Straight",
+            ["mxms_three_pair"] = "Three Pairs",
             ["mxms_super_royal"] = 'Super Royal Flush'
         },
         poker_hand_descriptions = {
@@ -125,14 +216,14 @@ return {
                 "6 cards with the same rank"
             },
             ["mxms_double_triple"] = {
-                "Two 3 of a Kinds"
+                "Two instances of Three of a Kind at once"
             },
             ["mxms_f_6oak"] = {
                 "6 cards with the same rank with",
                 "all cards sharing the same suit"
             },
             ["mxms_f_double_triple"] = {
-                "Two 3 of a Kinds with",
+                "Two instances of Three of a Kind with",
                 "all cards sharing the same suit"
             },
             ["mxms_f_party"] = {
@@ -161,9 +252,9 @@ return {
             },
         },
         v_dictionary = {
-            mxms_art = { 'Art: #1#' },
-            mxms_code = { 'Code: #1#' },
-            mxms_idea = { 'Idea: #1#' }
+            otm_art = { 'Art: #1#' },
+            otm_code = { 'Code: #1#' },
+            otm_idea = { 'Idea: #1#' }
         }
     }
 }
