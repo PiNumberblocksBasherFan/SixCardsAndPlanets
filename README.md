@@ -1,6 +1,6 @@
 This mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367
 
-==Vanilla Hand Subtypes==
+# Vanilla Hand Subtypes
 * Broadway: Ganymede, Mimas, Enceladus
 * Mid-Hand (a hand of 6 to 10): Callisto, Tethys, Dione
 * Wheel: Io, Rhea, Titan
@@ -12,7 +12,7 @@ This mod is an expansion adding a whole lot of new hand types and corresponding 
 * Horsemen (four faces of the same type): Phobos
 * Square Power (4444 or 9999): Deimos
 
-==Six Card Hands==
+# Six Card Hands
 * Three Pairs: Varuna, AU Microscopii b
 * Two Trios: Orcus, WASP-12b
 * Mansion (a quad and a pair): Gonggong, Poltergeist
