@@ -179,7 +179,7 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
-            c_mxms_Chariklo = {
+            c_mxms_chariklo = {
                 name = 'Chariklo',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
@@ -209,7 +209,7 @@ return {
             ["mxms_s_straight_f"] = "Long Straight Flush",
             ["mxms_s_straight"] = "Long Straight",
             ["mxms_three_pair"] = "Three Pairs",
-            ["mxms_super_royal"] = 'Super Royal Flush'
+            ["mxms_super_royal"] = "Deluxe Royal"
         },
         poker_hand_descriptions = {
             ["mxms_6oak"] = {
