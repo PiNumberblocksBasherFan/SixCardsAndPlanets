@@ -105,19 +105,22 @@ return {
     misc = {
         dictionary = {
             k_mxms_exoplanet = 'Exoplanet'
+            k_mxms_centaur = 'Centaur'
+            k_asteroid = 'Asteroid'
+            k_p[lanet_q = 'Planet?'
         },
         poker_hands = {
             ["mxms_6oak"] = "Six of a Kind",
-            ["mxms_double_triple"] = "Double Triple",
+            ["mxms_double_triple"] = "Two Trios",
             ["mxms_f_6oak"] = "Flush Six",
-            ["mxms_f_double_triple"] = "Flush Double Triple",
-            ["mxms_f_party"] = "Flush Party",
-            ["mxms_f_three_pair"] = "Flush Three Pair",
-            ["mxms_house_party"] = "House Party",
-            ["mxms_s_flush"] = "Super Flush",
-            ["mxms_s_straight_f"] = "Super Straight Flush",
-            ["mxms_s_straight"] = "Super Straight",
-            ["mxms_three_pair"] = "Three Pair",
+            ["mxms_f_double_triple"] = "Flushed Two Trios",
+            ["mxms_f_party"] = "Monochromatic Mansion",
+            ["mxms_f_three_pair"] = "Flushed Three Pairs",
+            ["mxms_house_party"] = "Mansion",
+            ["mxms_s_flush"] = "Long Flush",
+            ["mxms_s_straight_f"] = "Long Straight Flush",
+            ["mxms_s_straight"] = "Long Straight",
+            ["mxms_three_pair"] = "Three Pairs",
             ["mxms_super_royal"] = 'Super Royal Flush'
         },
         poker_hand_descriptions = {
@@ -125,14 +128,14 @@ return {
                 "6 cards with the same rank"
             },
             ["mxms_double_triple"] = {
-                "Two 3 of a Kinds"
+                "Two instances of Three of a Kind at once"
             },
             ["mxms_f_6oak"] = {
                 "6 cards with the same rank with",
                 "all cards sharing the same suit"
             },
             ["mxms_f_double_triple"] = {
-                "Two 3 of a Kinds with",
+                "Two instances of Three of a Kind with",
                 "all cards sharing the same suit"
             },
             ["mxms_f_party"] = {
