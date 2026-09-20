@@ -11,6 +11,7 @@ This mod is an expansion adding a whole lot of new hand types and corresponding 
 * Warped Straight Flush: Proteus
 * Horsemen (four faces of the same type): Phobos
 * Square Power (4444 or 9999): Deimos
+
 ==Six Card Hands==
 * Three Pairs: Varuna, AU Microscopii b
 * Two Trios: Orcus, WASP-12b
