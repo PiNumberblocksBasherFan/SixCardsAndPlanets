@@ -196,8 +196,13 @@ return {
             k_mxms_centaur = '半人馬小行星'
             k_asteroid = '小行星'
             k_planet_q = '行星?'
+            k_mxms_satellite = '衛星'
         },
         poker_hands = {
+            ["mxms_broadway"] = "百老匯街"
+            ["mxms_midhand"] = "中型順子"
+            ["mxms_wheel"] = "車輪"
+            ["mxms_wp_straight"] = "扭曲順子"
             ["mxms_6oak"] = "六條",
             ["mxms_double_triple"] = "兩組三條",
             ["mxms_f_6oak"] = "同花六條",
@@ -209,9 +214,21 @@ return {
             ["mxms_s_straight_f"] = "六同花順",
             ["mxms_s_straight"] = "巨蟒",
             ["mxms_three_pair"] = "三對",
-            ["mxms_super_royal"] = '豪華王家'
+            ["mxms_super_royal"] = '豪華王家同花順'
         },
         poker_hand_descriptions = {
+            ["mxms_broadway"] = {
+                "由A至10組成的順子"
+            },
+            ["mxms_mid-hand"] = {
+                "由6至10或5至9組成的順子"
+            },
+            ["mxms_wheel"] = {
+                "由A至5組成的順子"
+            },
+            ["mxms_wp_straight"] = {
+                "A同時以最高和最低形式出現的順子"
+            },
             ["mxms_6oak"] = {
                 "六張相同數字的卡"
             },
