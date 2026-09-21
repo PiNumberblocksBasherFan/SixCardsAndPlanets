@@ -179,8 +179,40 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
-            c_mxms_Chariklo = {
+            c_mxms_chariklo = {
                 name = 'Chariklo',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_ganymede = {
+                name = 'Ganymede',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_callisto = {
+                name = 'Callisto',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_io = {
+                name = 'Io',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_europa = {
+                name = 'Europa',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
                     "{C:attention}#2#",
@@ -196,7 +228,7 @@ return {
             k_mxms_centaur = 'Centaur'
             k_asteroid = 'Asteroid'
             k_planet_q = 'Planet?'
-            k_maximus_satellite = 'Satellite'
+            k_mxms_satellite = 'Satellite'
         },
         poker_hands = {
             ["mxms_broadway"] = "Broadway"
