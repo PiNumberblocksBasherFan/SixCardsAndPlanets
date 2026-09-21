@@ -196,8 +196,13 @@ return {
             k_mxms_centaur = 'Centaur'
             k_asteroid = 'Asteroid'
             k_planet_q = 'Planet?'
+            k_maximus_satellite = 'Satellite'
         },
         poker_hands = {
+            ["mxms_broadway"] = "Broadway"
+            ["mxms_midhand"] = "Mid-Hand"
+            ["mxms_wheel"] = "Wheel"
+            ["mxms_wp_straight"] = "Warped Straight"
             ["mxms_6oak"] = "Six of a Kind",
             ["mxms_double_triple"] = "Two Trios",
             ["mxms_f_6oak"] = "Flush Six",
@@ -209,9 +214,23 @@ return {
             ["mxms_s_straight_f"] = "Long Straight Flush",
             ["mxms_s_straight"] = "Long Straight",
             ["mxms_three_pair"] = "Three Pairs",
-            ["mxms_super_royal"] = 'Super Royal Flush'
+            ["mxms_super_royal"] = 'Deluxe Royal'
         },
         poker_hand_descriptions = {
+            ["mxms_broadway"] = {
+                "A five-card straight from ace to ten"
+            },
+            ["mxms_mid-hand"] = {
+                "A five-card straight from six to",
+                "ten or from five to nine"
+            },
+            ["mxms_wheel"] = {
+                "A five-card straight from ace to five"
+            },
+            ["mxms_wp_straight"] = {
+                "A five-card straight where the",
+                "ace acts as both high and low"
+            },
             ["mxms_6oak"] = {
                 "6 cards with the same rank"
             },
