@@ -37,7 +37,7 @@ SMODS.Consumable {
             return true
         end
 
-        return false
+        return true
     end,
     set_card_type_badge = function(self, card, badges)
         badges[#badges + 1] = create_badge(localize('k_mxms_satellite'), get_type_colour(card.config.center, card), nil,
