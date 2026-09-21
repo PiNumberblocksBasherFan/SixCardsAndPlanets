@@ -11,12 +11,12 @@ SMODS.PokerHand {
     pos = { x = 0, y = 3 },
     example = {
 
-        { 'S_A', true },
-        { 'D_K', true },
-        { 'C_Q', true },
-        { 'H_J', true },
-        { 'S_T', true },
-        { 'D_9', true }
+        { 'S_Q', true },
+        { 'D_J', true },
+        { 'C_T', true },
+        { 'H_9', true },
+        { 'S_8', true },
+        { 'D_7', true }
 
     },
     visible = false,
