@@ -34,13 +34,15 @@ SMODS.PokerHand {
         if royal then
           return 'mxms_broadway'
         else
-          if mid then
+            if mid then
               return 'mxms_midhand'
-          else
-            if wheel then
-              return 'mxms_wheel'
             else
-              return 'straight'
+                if wheel then
+                  return 'mxms_wheel'
+                else
+                    return 'straight'
+                end
+            end
         end
     end
 }
