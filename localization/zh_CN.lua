@@ -187,12 +187,44 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_ganymede = {
+                name = '木衛三',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_callisto = {
+                name = '木衛四',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_io = {
+                name = '木衛一',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_europa = {
+                name = '木衛二',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
     misc = {
         dictionary = {
-            k_mxms_exoplanet = '系外行星'
+            k_mxms_exoplanet = '太陽系外行星'
             k_mxms_centaur = '半人馬小行星'
             k_asteroid = '小行星'
             k_planet_q = '行星?'
