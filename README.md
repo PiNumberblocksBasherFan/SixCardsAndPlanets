@@ -1,4 +1,4 @@
-This mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
+This (half baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
 
 # Vanilla Hand Subtypes (harder to implement)
 * Broadway: Ganymede, Mimas, Enceladus
@@ -12,7 +12,7 @@ This mod is an expansion adding a whole lot of new hand types and corresponding 
 * Horsemen (four faces of the same type): Phobos
 * Square Power (4444 or 9999): Deimos
 
-# Six Card Hands
+# Six Card Hands (already existing in original)
 * Three Pairs: Varuna, AU Microscopii b
 * Two Trios: Orcus, WASP-12b
 * Mansion (a quad and a pair): Gonggong, Poltergeist
@@ -38,7 +38,7 @@ This mod is an expansion adding a whole lot of new hand types and corresponding 
 * Devil's Deal (six sixes): Vulcan
 * Angel's Horns (six sixes of the same suit): Actaea
 
-# Spectrum-based Content
+# Spectrum-based Content (code mostly from Bunco, requires said mods to operate)
 * Rainbow Road (a broadway in five different suits): Hi'iaka
 * Spectral Mid-Hand: 1996TO66
 * Colour Wheel: Namaka
