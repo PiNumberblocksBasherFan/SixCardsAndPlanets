@@ -20,8 +20,8 @@ SMODS.PokerHand {
     },
     visible = false,
     evaluate = function(parts, hand)
-        return next(parts.straight) and next(parts.flush)
-            and { SMODS.merge_lists(parts.straight, parts.flush) } or {}
+        return next(parts.straight)
+            and { SMODS.merge_lists(parts.straight) } or {}
     end,
     modify_display_text = function(self, cards, scoring_hand)
         local royal = true
