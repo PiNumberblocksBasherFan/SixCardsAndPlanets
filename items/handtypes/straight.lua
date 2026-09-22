@@ -18,7 +18,7 @@ SMODS.PokerHand {
         { 'S_8', true },
 
     },
-    visible = false,
+    visible = true,
     evaluate = function(parts, hand)
         return next(parts.straight)
             and { SMODS.merge_lists(parts.straight) } or {}
