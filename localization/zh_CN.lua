@@ -361,10 +361,17 @@ return {
             ["mxms_f_three_pair"] = "同花三對",
             ["mxms_house_party"] = "豪宅",
             ["mxms_s_flush"] = "大花",
-            ["mxms_s_straight_f"] = "六同花順",
+            ["mxms_s_straight_f"] = "長同花順",
             ["mxms_s_straight"] = "巨蟒",
             ["mxms_three_pair"] = "三對",
+            ["mxms_catwalk"] = "舞台"
+            ["mxms_indispensable"] = "不可或缺"
+            ["mxms_ship"] = "船"
+            ["mxms_wp_s_straight"] = "扭曲巨蟒"
             ["mxms_super_royal"] = "豪華皇家同花順"
+            ["mxms_indispensable_f"] = "同花不可或缺"
+            ["mxms_yacht"] = "快艇"
+            ["mxms_wp_s_straight_f"] = "扭曲長同花順"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -433,6 +440,30 @@ return {
             },
             ["mxms_three_pair"] = {
                 "三組不同數字的對子"
+            },
+            ["mxms_catwalk"] = {
+                "由A至9組成的巨蟒"
+            },
+            ["mxms_indispensable"] = {
+                "由5至10組成的巨蟒"
+            },
+            ["mxms_ship"] = {
+                "由A至6組成的巨蟒"
+            },
+            ["mxms_wp_s_straight"] = {
+                "A同時以最高和最低形式出現的巨蟒"
+            },
+            ["mxms_super_royal"] = {
+                "由A至9組成的長同花順"
+            },
+            ["mxms_indispensable_f"] = {
+                "由5至10組成的長同花順"
+            },
+            ["mxms_yacht"] = {
+                "由A至6組成的長同花順"
+            },
+            ["mxms_wp_s_straight_f"] = {
+                "A同時以最高和最低形式出現的長同花順"
             },
         },
         v_dictionary = {
