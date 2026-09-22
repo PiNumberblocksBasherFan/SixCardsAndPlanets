@@ -40,7 +40,7 @@ SMODS.PokerHand {
                 if wheel then
                   return 'mxms_ship'
                 else
-                    return 's_straight'
+                    return 'mxms_s_straight'
                 end
             end
         end
