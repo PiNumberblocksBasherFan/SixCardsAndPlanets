@@ -29,7 +29,7 @@ SMODS.PokerHand {
             local rank = SMODS.Ranks[scoring_hand[i].base.value]
             royal = royal and (rank.key == 'Ace' or rank.key == '10' or rank.face)
             mid = mid and (rank.key == '10' or rank.key == '9' or rank.key == '8' or rank.key == '7' or rank.key == '6' or rank.key == '5')
-            wheel = wheel and (rank.key == 'Ace' orrank.key == '2' or rank.key == '3' or rank.key == '4' orrank.key == '5')
+            wheel = wheel and (rank.key == 'Ace' orrank.key == '2' or rank.key == '3' or rank.key == '4' or rank.key == '5')
         end
         if royal then
           return 'mxms_broadway'
