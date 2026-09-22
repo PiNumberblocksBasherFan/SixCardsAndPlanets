@@ -467,8 +467,8 @@ return {
             },
         },
         v_dictionary = {
-            otm_art = { '畫作: #1#' },
-            otm_code = { '編碼: #1#' },
+            otm_art = { '插圖: #1#' },
+            otm_code = { '編程: #1#' },
             otm_idea = { '靈感: #1#' }
         }
     }
