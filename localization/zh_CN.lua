@@ -299,6 +299,8 @@ return {
             ["mxms_midhand"] = "中型順子"
             ["mxms_wheel"] = "車輪"
             ["mxms_wp_straight"] = "扭曲順子"
+            ["mxms_horsemen"] = "四大天王"
+            ["mxms_square"] = "平方數力量"
             ["mxms_6oak"] = "六條",
             ["mxms_double_triple"] = "兩組三條",
             ["mxms_f_6oak"] = "同花六條",
@@ -310,7 +312,7 @@ return {
             ["mxms_s_straight_f"] = "六同花順",
             ["mxms_s_straight"] = "巨蟒",
             ["mxms_three_pair"] = "三對",
-            ["mxms_super_royal"] = '豪華王家同花順'
+            ["mxms_super_royal"] = "豪華王家同花順"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -324,6 +326,12 @@ return {
             },
             ["mxms_wp_straight"] = {
                 "A同時以最高和最低形式出現的順子"
+            },
+            ["mxms_horsemen"] = {
+                "四張相同的面頭牌（即J、Q或K）"
+            },
+            ["mxms_square"] = {
+                "四張4或四張9"
             },
             ["mxms_6oak"] = {
                 "六張相同數字的卡"
