@@ -1,13 +1,13 @@
-This (half baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
+This (half-baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
 
-# Vanilla Hand Subtypes (harder to implement)
+# Vanilla Hand Subtypes (all except warped are implemented)
 * Broadway: Ganymede, Mimas, Enceladus (done)
 * Mid-Hand (a hand of 6 to 10, or a hand of 5 to 9): Callisto, Tethys, Dione  (done)
 * Wheel: Io, Rhea, Titan (done)
 * Warped Straight: Europa, Hyperion, Iapetus
-* Royal Flush: Triton
-* Mid-Handed Flush: Nereid
-* Steel Wheel: Naiad
+* Royal Flush: Triton (done)
+* Mid-Handed Flush: Nereid (done)
+* Steel Wheel: Naiad (done)
 * Warped Straight Flush: Proteus
 * Horsemen (four faces of the same type): Phobos (done)
 * Square Power (4444 or 9999): Deimos (done)
@@ -38,7 +38,7 @@ This (half baked) mod is an expansion adding a whole lot of new hand types and c
 * Devil's Deal (six sixes): Vulcan
 * Angel's Horns (six sixes of the same suit): Actaea
 
-# Spectrum-based Content (code mostly from Bunco, requires said mods to operate)
+# Spectrum-based Content (code mostly from Bunco, requires similar mods like Paperback or Sigil to operate)
 * Rainbow Road (a broadway in five different suits): Hi'iaka
 * Spectral Mid-Hand: 1996TO66
 * Colour Wheel: Namaka
