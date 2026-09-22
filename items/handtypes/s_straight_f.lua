@@ -29,11 +29,21 @@ SMODS.PokerHand {
         for i = 1, #scoring_hand do
             local rank = SMODS.Ranks[scoring_hand[i].base.value]
             royal = royal and (rank.key == 'Ace' or rank.key == '10' or rank.key == '9' or rank.face)
+            mid = mid and (rank.key == '10' or rank.key == '9' or rank.key == '8' or rank.key == '7' or rank.key == '6' or rank.key == '5')
+            wheel = wheel and (rank.key == 'Ace' orrank.key == '2' or rank.key == '3' or rank.key == '4' or rank.key == '5' or rank.key == '6')
         end
         if royal then
-            return 'mxms_super_royal'
+          return 'mxms_super_royal'
         else
-            return 'mxms_s_straight_f'
+            if mid then
+              return 'mxms_indispensable_f'
+            else
+                if wheel then
+                  return 'mxms_yacht'
+                else
+                    return 'mxms_s_straight_f'
+                end
+            end
         end
     end
 }
