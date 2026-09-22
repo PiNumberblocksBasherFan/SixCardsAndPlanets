@@ -364,7 +364,14 @@ return {
             ["mxms_s_straight_f"] = "Long Straight Flush",
             ["mxms_s_straight"] = "Long Straight",
             ["mxms_three_pair"] = "Three Pairs",
+            ["mxms_catwalk"] = "Catwalk",
+            ["mxms_indispensable"] = "Indispensable"
+            ["mxms_ship"] = "Ship"
+            ["mxms_wp_s_straight"] = "Long Warped Straight"
             ["mxms_super_royal"] = "Deluxe Royal"
+            ["mxms_indispensable_f"] = "Indispensable Flush"
+            ["mxms_yacht"] = "Yacht"
+            ["mxms_wp_s_straight_f"] = "Long Warped Straight Flush"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -392,8 +399,8 @@ return {
                 "A five-card straight flush from ace to five"
             },
             ["mxms_wp_straight_f"] = {
-                "A five-card straight flush where the",
-                "ace acts as both high and low"
+                "A five-card straight flush where",
+                "the ace acts as both high and low"
             },
             ["mxms_horsemen"] = {
                 "Four of the same face card"
@@ -438,6 +445,32 @@ return {
             },
             ["mxms_three_pair"] = {
                 "3 Pairs of cards with different ranks"
+            },
+            ["mxms_catwalk"] = {
+                "A six-card straight from ace to nine"
+            },
+            ["mxms_indispensable"] = {
+                "A six-card straight from five to ten"
+            },
+            ["mxms_ship"] = {
+                "A six-card straight from ace to six"
+            },
+            ["mxms_wp_s_straight"] = {
+                "A six-card straight where the",
+                "ace acts as both high and low"
+            },
+            ["mxms_super_royal"] = {
+                "A six-card straight flush from ace to nine"
+            },
+            ["mxms_indispensable_f"] = {
+                "A six-card straight flush from five to ten"
+            },
+            ["mxms_ship"] = {
+                "A six-card straight flush from ace to six"
+            },
+            ["mxms_wp_s_straight"] = {
+                "A six-card straight flush where",
+                "the ace acts as both high and low"
             },
         },
         v_dictionary = {
