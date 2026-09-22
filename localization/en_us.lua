@@ -292,13 +292,15 @@ return {
             k_mxms_centaur = 'Centaur'
             k_asteroid = 'Asteroid'
             k_planet_q = 'Planet?'
-            k_mxms_satellite = 'Satellite'
+            k_maximus_satellite = 'Satellite'
         },
         poker_hands = {
             ["mxms_broadway"] = "Broadway"
             ["mxms_midhand"] = "Mid-Hand"
             ["mxms_wheel"] = "Wheel"
             ["mxms_wp_straight"] = "Warped Straight"
+            ["mxms_horsemen"] = "Horsemen"
+            ["mxms_square"] = "Square Power"
             ["mxms_6oak"] = "Six of a Kind",
             ["mxms_double_triple"] = "Two Trios",
             ["mxms_f_6oak"] = "Flush Six",
@@ -326,6 +328,12 @@ return {
             ["mxms_wp_straight"] = {
                 "A five-card straight where the",
                 "ace acts as both high and low"
+            },
+            ["mxms_horsemen"] = {
+                "Four of the same face card"
+            },
+            ["mxms_square"] = {
+                "Four fours or four nines"
             },
             ["mxms_6oak"] = {
                 "6 cards with the same rank"
