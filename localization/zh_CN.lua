@@ -235,7 +235,7 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
-            c_mxms_Tethys = {
+            c_mxms_tethys = {
                 name = '土衛三',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
@@ -299,6 +299,38 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_triton = {
+                name = '海衛一',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_nereid = {
+                name = '海衛二',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_naiad = {
+                name = '海衛三',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_proteus = {
+                name = '海衛八',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
@@ -315,6 +347,10 @@ return {
             ["mxms_midhand"] = "中型順子"
             ["mxms_wheel"] = "車輪"
             ["mxms_wp_straight"] = "扭曲順子"
+            ["royal_f"] = "皇家同花順"
+            ["mxms_midhandflush"] = "中型同花順"
+            ["mxms_steel_wheel"] = "鋼車輪"
+            ["mxms_wp_straight_f"] = "扭曲同花順"
             ["mxms_horsemen"] = "四大天王"
             ["mxms_square"] = "平方數力量"
             ["mxms_6oak"] = "六條",
@@ -328,7 +364,7 @@ return {
             ["mxms_s_straight_f"] = "六同花順",
             ["mxms_s_straight"] = "巨蟒",
             ["mxms_three_pair"] = "三對",
-            ["mxms_super_royal"] = "豪華王家同花順"
+            ["mxms_super_royal"] = "豪華皇家同花順"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -342,6 +378,18 @@ return {
             },
             ["mxms_wp_straight"] = {
                 "A同時以最高和最低形式出現的順子"
+            },
+            ["royal_f"] = {
+                "由A至10組成的同花順"
+            },
+            ["mxms_midhandflush"] = {
+                "由6至10或5至9組成的同花順"
+            },
+            ["mxms_steel_wheel"] = {
+                "由A至5組成的同花順"
+            },
+            ["mxms_wp_straight_f"] = {
+                "A同時以最高和最低形式出現的同花順"
             },
             ["mxms_horsemen"] = {
                 "四張相同的面頭牌（即J、Q或K）"
