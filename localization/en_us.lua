@@ -299,6 +299,38 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_triton = {
+                name = 'Triton',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_nereid = {
+                name = 'Nereid',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_naiad = {
+                name = 'Naiad',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_proteus = {
+                name = 'Proteus',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -315,6 +347,10 @@ return {
             ["mxms_midhand"] = "Mid-Hand"
             ["mxms_wheel"] = "Wheel"
             ["mxms_wp_straight"] = "Warped Straight"
+            ["royal_f"] = "Royal Flush"
+            ["mxms_midhandflush"] = "Mid-Handed Flush"
+            ["mxms_steel_wheel"] = "Steel Wheel"
+            ["mxms_wp_straight_f"] = "Warped Straight Flush"
             ["mxms_horsemen"] = "Horsemen"
             ["mxms_square"] = "Square Power"
             ["mxms_6oak"] = "Six of a Kind",
@@ -343,6 +379,20 @@ return {
             },
             ["mxms_wp_straight"] = {
                 "A five-card straight where the",
+                "ace acts as both high and low"
+            },
+            ["royal_f"] = {
+                "A five-card straight flush from ace to ten"
+            },
+            ["mxms_midhandflush"] = {
+                "A five-card straight flush from",
+                "six to ten or from five to nine"
+            },
+            ["mxms_steel_wheel"] = {
+                "A five-card straight flush from ace to five"
+            },
+            ["mxms_wp_straight_f"] = {
+                "A five-card straight flush where the",
                 "ace acts as both high and low"
             },
             ["mxms_horsemen"] = {
