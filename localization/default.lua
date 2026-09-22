@@ -331,6 +331,70 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_pholus = {
+                name = 'Pholus',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_bienor = {
+                name = 'Bienor',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_nessus = {
+                name = 'Nessus',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_kaepa = {
+                name = 'Kaʻepaokaʻāwela',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_hylonome = {
+                name = 'Hylonome',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_hidalgo = {
+                name = 'Hidalgo',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_asbolus = {
+                name = 'Asbolus',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_taowu = {
+                name = 'Taowu',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -340,7 +404,7 @@ return {
             k_mxms_centaur = 'Centaur'
             k_asteroid = 'Asteroid'
             k_planet_q = 'Planet?'
-            k_maximus_satellite = 'Satellite'
+            k_mxms_satellite = 'Satellite'
         },
         poker_hands = {
             ["mxms_broadway"] = "Broadway"
@@ -468,7 +532,7 @@ return {
             ["mxms_yacht"] = {
                 "A six-card straight flush from ace to six"
             },
-            ["mxms_wp_s_straight"] = {
+            ["mxms_wp_s_straight_f"] = {
                 "A six-card straight flush where",
                 "the ace acts as both high and low"
             },
