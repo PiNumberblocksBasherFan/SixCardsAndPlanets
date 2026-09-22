@@ -465,7 +465,7 @@ return {
             ["mxms_indispensable_f"] = {
                 "A six-card straight flush from five to ten"
             },
-            ["mxms_ship"] = {
+            ["mxms_yacht"] = {
                 "A six-card straight flush from ace to six"
             },
             ["mxms_wp_s_straight"] = {
