@@ -1,18 +1,18 @@
 This (half-baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
 
 # Vanilla Hand Subtypes (all except warped are implemented)
-* Broadway: Ganymede, Mimas, Enceladus
-* Mid-Hand (a hand of 6 to 10, or a hand of 5 to 9): Callisto, Tethys, Dione
-* Wheel: Io, Rhea, Titan
+* ✅Broadway: Ganymede, Mimas, Enceladus
+* ✅Mid-Hand (a hand of 6 to 10, or a hand of 5 to 9): Callisto, Tethys, Dione
+* ✅Wheel: Io, Rhea, Titan
 * Warped Straight: Europa, Hyperion, Iapetus
-* Royal Flush: Triton
-* Mid-Handed Flush: Nereid
-* Steel Wheel: Naiad
+* ✅Royal Flush: Triton
+* ✅Mid-Handed Flush: Nereid
+* ✅Steel Wheel: Naiad
 * Warped Straight Flush: Proteus
-* Horsemen (four faces of the same type): Phobos
-* Square Power (4444 or 9999): Deimos
+* ✅Horsemen (four faces of the same type): Phobos
+* ✅Square Power (4444 or 9999): Deimos
 
-# Six Card Hands (already existing in original)
+# ✅Six Card Hands (already existing in original)
 * Three Pairs: Varuna, AU Microscopii b
 * Two Trios: Orcus, WASP-12b
 * Mansion (a quad and a pair): Gonggong, Poltergeist
@@ -25,13 +25,13 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * Flush Six: Salacia, Kepler-10c
 
 # Six Card Hand Variants (to be done next)
-* Catwalk (a hand of A to 9): Pholus
-* Indispensable (a hand of 5 to 10): Bienor
-* Ship (a hand of A to 6): Nessus
+* ✅Catwalk (a hand of A to 9): Pholus
+* ✅Indispensable (a hand of 5 to 10): Bienor
+* ✅Ship (a hand of A to 6): Nessus
 * Long Warped Straight: Kaʻepaokaʻāwela
-* Deluxe Royal (flushed catwalk): Hylonome
-* Indispensable Flush: Hidalgo
-* Yacht (flushed ship): Asbolus
+* ✅Deluxe Royal (flushed catwalk): Hylonome
+* ✅Indispensable Flush: Hidalgo
+* ✅Yacht (flushed ship): Asbolus
 * Long Warped Straight Flush: Taowu
 * Staircase (three pairs of consecutive ranks): Albion
 * Waterfall (flushed staircase): Euphrosyne
