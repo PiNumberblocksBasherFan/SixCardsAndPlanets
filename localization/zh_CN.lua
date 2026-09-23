@@ -395,6 +395,22 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_vulcan = {
+                name = '祝融星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_actaea = {
+                name = '潫衛一',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
@@ -437,6 +453,8 @@ return {
             ["mxms_indispensable_f"] = "同花不可或缺"
             ["mxms_yacht"] = "快艇"
             ["mxms_wp_s_straight_f"] = "扭曲長同花順"
+            ["mxms_devils_deal"] = "魔鬼之交"
+            ["mxms_angels_horns"] = "天使的號角"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -529,6 +547,12 @@ return {
             },
             ["mxms_wp_s_straight_f"] = {
                 "A同時以最高和最低形式出現的長同花順"
+            },
+            ["mxms_devils_deal"] = {
+                "六張6號牌"
+            },
+            ["mxms_angels_horns"] = {
+                "六張相同花色的6號牌"
             },
         },
         v_dictionary = {
