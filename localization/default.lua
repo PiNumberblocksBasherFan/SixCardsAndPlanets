@@ -395,6 +395,22 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_vulcan = {
+                name = 'Vulcan',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_actaea = {
+                name = 'Actaea',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -436,6 +452,8 @@ return {
             ["mxms_indispensable_f"] = "Indispensable Flush"
             ["mxms_yacht"] = "Yacht"
             ["mxms_wp_s_straight_f"] = "Long Warped Straight Flush"
+            ["mxms_devils_deal"] = "Devil's Deal"
+            ["mxms_angels_horns"] = "Angel's Horns"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -535,6 +553,12 @@ return {
             ["mxms_wp_s_straight_f"] = {
                 "A six-card straight flush where",
                 "the ace acts as both high and low"
+            },
+            ["mxms_devils_deal"] = {
+                "A hand containing 6 sixes"
+            },
+            ["mxms_angels_horns"] = {
+                "A hand containing 6 sixes of the same suit"
             },
         },
         v_dictionary = {
