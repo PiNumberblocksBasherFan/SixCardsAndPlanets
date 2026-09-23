@@ -411,6 +411,22 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_albion = {
+                name = 'Albion',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_euphrosyne = {
+                name = 'Euphrosyne',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -421,6 +437,8 @@ return {
             k_asteroid = 'Asteroid'
             k_planet_q = 'Planet?'
             k_mxms_satellite = 'Satellite'
+            k_mxms_retrograde = 'Retrograde Object'
+            k_mxms_kbo = 'Kuiper Belt Object'
         },
         poker_hands = {
             ["mxms_broadway"] = "Broadway"
@@ -454,6 +472,8 @@ return {
             ["mxms_wp_s_straight_f"] = "Long Warped Straight Flush"
             ["mxms_devils_deal"] = "Devil's Deal"
             ["mxms_angels_horns"] = "Angel's Horns"
+            ["mxms_staircase"] = "Staircase"
+            ["mxms_waterfall"] = "Waterfall"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -559,6 +579,13 @@ return {
             },
             ["mxms_angels_horns"] = {
                 "A hand containing 6 sixes of the same suit"
+            },
+            ["mxms_staircase"] = {
+                "Three pairs with consecutive ranks"
+            },
+            ["mxms_angels_horns"] = {
+                "Three pairs with consecutive",
+                "ranks and the same suit"
             },
         },
         v_dictionary = {
