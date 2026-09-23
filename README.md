@@ -1,14 +1,19 @@
 This (half-baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
 
-# Vanilla Hand Subtypes (all except warped are implemented)
+Key:
+* ✅Code for both hand type and consumable complete
+* ⚠️Lacks code for the relevant hand type, but the sprite and the consumable code are done
+* No icon: Development has not begun for this object
+
+# Vanilla Hand Subtypes
 * ✅Broadway: Ganymede, Mimas, Enceladus
 * ✅Mid-Hand (a hand of 6 to 10, or a hand of 5 to 9): Callisto, Tethys, Dione
 * ✅Wheel: Io, Rhea, Titan
-* Warped Straight: Europa, Hyperion, Iapetus
+* ⚠️Warped Straight: Europa, Hyperion, Iapetus
 * ✅Royal Flush: Triton
 * ✅Mid-Handed Flush: Nereid
 * ✅Steel Wheel: Naiad
-* Warped Straight Flush: Proteus
+* ⚠️Warped Straight Flush: Proteus
 * ✅Horsemen (four faces of the same type): Phobos
 * ✅Square Power (4444 or 9999): Deimos
 
@@ -28,11 +33,11 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * ✅Catwalk (a hand of A to 9): Pholus
 * ✅Indispensable (a hand of 5 to 10): Bienor
 * ✅Ship (a hand of A to 6): Nessus
-* Long Warped Straight: Kaʻepaokaʻāwela
+* ⚠️Long Warped Straight: Kaʻepaokaʻāwela
 * ✅Deluxe Royal (flushed catwalk): Hylonome
 * ✅Indispensable Flush: Hidalgo
 * ✅Yacht (flushed ship): Asbolus
-* Long Warped Straight Flush: Taowu
+* ⚠️Long Warped Straight Flush: Taowu
 * Staircase (three pairs of consecutive ranks): Albion
 * Waterfall (flushed staircase): Euphrosyne
 * ✅Devil's Deal (six sixes): Vulcan
