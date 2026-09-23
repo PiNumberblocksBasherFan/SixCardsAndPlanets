@@ -35,8 +35,8 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * Long Warped Straight Flush: Taowu
 * Staircase (three pairs of consecutive ranks): Albion
 * Waterfall (flushed staircase): Euphrosyne
-* Devil's Deal (six sixes): Vulcan
-* Angel's Horns (six sixes of the same suit): Actaea
+* ✅Devil's Deal (six sixes): Vulcan
+* ✅Angel's Horns (six sixes of the same suit): Actaea
 
 # Spectrum-based Content (code mostly from Bunco, requires similar mods like Paperback or Sigil to operate)
 * Rainbow Road (a broadway in five different suits): Hi'iaka
