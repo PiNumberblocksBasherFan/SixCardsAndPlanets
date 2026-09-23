@@ -2,7 +2,7 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 
 # Key:
 * ✅Code for both hand type and consumable complete
-* ⚠️Lacks code for the relevant hand type, but the sprite and the consumable code are done
+* ⚠️Lacks code for the relevant hand type, but the sprite, the consumable code and the localization are done
 * ⛔: Development has not begun for this object
 
 # Vanilla Hand Subtypes
@@ -38,8 +38,8 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * ✅Indispensable Flush: Hidalgo
 * ✅Yacht (flushed ship): Asbolus
 * ⚠️Long Warped Straight Flush: Taowu
-* ⛔Staircase (three pairs of consecutive ranks): Albion
-* ⛔Waterfall (flushed staircase): Euphrosyne
+* ⚠️Staircase (three pairs of consecutive ranks): Albion
+* ⚠️Waterfall (flushed staircase): Euphrosyne
 * ✅Devil's Deal (six sixes): Vulcan
 * ✅Angel's Horns (six sixes of the same suit): Actaea
 
