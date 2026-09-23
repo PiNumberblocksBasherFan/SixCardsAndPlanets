@@ -411,6 +411,22 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_albion = {
+                name = '小行星15760',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_euphrosyne = {
+                name = '麗神星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
@@ -455,6 +471,8 @@ return {
             ["mxms_wp_s_straight_f"] = "扭曲長同花順"
             ["mxms_devils_deal"] = "魔鬼之交"
             ["mxms_angels_horns"] = "天使的號角"
+            ["mxms_staircase"] = "樓梯牌"
+            ["mxms_waterfall"] = "瀑布"
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = {
@@ -553,6 +571,12 @@ return {
             },
             ["mxms_angels_horns"] = {
                 "六張相同花色的6號牌"
+            },
+            ["mxms_staircase"] = {
+                "三組連續數字的對子"
+            },
+            ["mxms_waterfall"] = {
+                "三組連續數字並相同花色的對子"
             },
         },
         v_dictionary = {
