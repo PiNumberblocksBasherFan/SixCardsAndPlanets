@@ -43,20 +43,20 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * ✅Devil's Deal (six sixes): Vulcan
 * ✅Angel's Horns (six sixes of the same suit): Actaea
 
-# ⛔Spectrum-based Content (code mostly from Spectrum Framework, requires other mods like Bunco, Paperback or Sigil to operate)
-* Rainbow Road (a broadway in five different suits): Hi'iaka
-* Spectral Mid-Hand: 1996TO66
-* Colour Wheel: Namaka
-* Warped Straight Spectrum: 2002TX300
-* Long Spectrum (six different suits): Hektor
-* Spectral Three Pairs: Eureka
-* Spectral Two Trios: Atira
-* Rainbow Mansion: Lempo
-* Spectrum Six: Arawn
-* Long Straight Spectrum: Otrera
-* Glacier (a catwalk in six different suits): Clete
-* Indispensable Spectrum: 2001QR322
-* Submarine (a ship in six different suits): 2004KV18
-* Long Warped Straight Spectrum: 2010EN65
-* Heaven Gateway (a staircase in six different suits): Lick
-* Hexachrome (six sixes in six different suits): Huya
+# Spectrum-based Content (code mostly from Spectrum Framework, requires other mods like Bunco, Paperback or Sigil to operate)
+* ✅Rainbow Road (a broadway in five different suits): Hi'iaka
+* ✅Spectral Mid-Hand: 1996TO66
+* ✅Colour Wheel: Namaka
+* ⚠️Warped Straight Spectrum: 2002TX300
+* ⛔Long Spectrum (six different suits): Hektor
+* ⛔Spectral Three Pairs: Eureka
+* ⛔Spectral Two Trios: Atira
+* ⛔Rainbow Mansion: Lempo
+* ⛔Spectrum Six: Arawn
+* ⛔Long Straight Spectrum: Otrera
+* ⛔Glacier (a catwalk in six different suits): Clete
+* ⛔Indispensable Spectrum: 2001QR322
+* ⛔Submarine (a ship in six different suits): 2004KV18
+* ⛔Long Warped Straight Spectrum: 2010EN65
+* ⛔Heaven Gateway (a staircase in six different suits): Lick
+* ⛔Hexachrome (six sixes in six different suits): Huya
