@@ -13,7 +13,7 @@ SMODS.PokerHand{ -- Spectrum Five
         { 'bunc_HALBERD_7', true }
     },
     evaluate = function(parts)
-        if not next(parts._5) or not next(parts.spectrum_spectrum) then return {} end
-        return {SMODS.merge_lists (parts._5, parts.spectrum_spectrum)}
+        if not next(parts._5) or not next(parts.spectrum) then return {} end
+        return {SMODS.merge_lists (parts._5, parts.spectrum)}
     end
 }
