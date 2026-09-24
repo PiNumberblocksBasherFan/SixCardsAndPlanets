@@ -1,4 +1,6 @@
-This (half-baked) mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
+**Chip values are placeholders! I have no idea what they will be, so please review them and change them to values that you like.**
+
+This *(half-baked)* mod is an expansion adding a whole lot of new hand types and corresponding planets. Blueprint: https://scratch.mit.edu/projects/1239846367 https://scratch.mit.edu/projects/1264902201
 
 # Key:
 * ✅Code for both hand type and consumable complete
