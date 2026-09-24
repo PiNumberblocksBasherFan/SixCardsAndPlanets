@@ -13,6 +13,6 @@ SMODS.PokerHand{ -- Spectrum
         { 'bunc_FLEURON_K',    true },
     },
     evaluate = function(parts)
-        return parts.spectrum_spectrum
+        return parts.spectrum
     end
 }
