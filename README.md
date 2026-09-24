@@ -47,7 +47,7 @@ This *(half-baked)* mod is an expansion adding a whole lot of new hand types and
 
 # Spectrum-based Content (code mostly from Spectrum Framework, requires other mods like Bunco, Paperback or Sigil to operate)
 * ✅Rainbow Road (a broadway in five different suits): Hi'iaka
-* ✅Spectral Mid-Hand: 1996TO66
+* ✅Mid-Handed Spectrum: 1996TO66
 * ✅Colour Wheel: Namaka
 * ⚠️Warped Straight Spectrum: 2002TX300
 * ⛔Long Spectrum (six different suits): Hektor
