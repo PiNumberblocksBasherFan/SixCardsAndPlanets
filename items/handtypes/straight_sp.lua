@@ -17,8 +17,8 @@ SMODS.PokerHand{ -- Straight Spectrum
         SMODS.process_loc_text(G.localization.misc.poker_hands, self.key..'_2', self.loc_txt, 'extra')
     end,
     evaluate = function(parts)
-        if not next(parts.spectrum_spectrum) or not next(parts._straight) then return {} end
-        return { SMODS.merge_lists (parts.spectrum_spectrum, parts._straight) }
+        if not next(parts.spectrum) or not next(parts._straight) then return {} end
+        return { SMODS.merge_lists (parts.spectrum, parts._straight) }
     end,
     modify_display_text = function(self, cards, scoring_hand)
         local royal = true
