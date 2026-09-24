@@ -32,7 +32,7 @@ SMODS.PokerHand{ -- Straight Spectrum
           return 'mxms_rainbow_road'
         else
             if mid then
-              return 'mxms_indispensable_sp'
+              return 'mxms_midhandsp'
             else
                 if wheel then
                   return 'mxms_colour_wheel'
