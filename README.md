@@ -17,19 +17,19 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * ✅Horsemen (four faces of the same type): Phobos
 * ✅Square Power (4444 or 9999): Deimos
 
-# ✅Six Card Hands (already existing in original)
-* Three Pairs: Varuna, AU Microscopii b
-* Two Trios: Orcus, WASP-12b
-* Mansion (a quad and a pair): Gonggong, Poltergeist
-* Six of a Kind: Tyche, 51 Pegasi b
-* Long Straight: Chiron, TRAPPIST-1e
-* Long Flush: Vesta, CoRoT-7b
-* Flushed Three Pairs: Pallas, Gliese 581c
-* Flushed Two Trios: Juno, 55 Cancri e
-* Monochromatic Mansion: Hygiea, Phobetor
-* Flush Six: Salacia, Kepler-10c
+# Six Card Hands
+* ✅Three Pairs: Varuna, AU Microscopii b
+* ✅Two Trios: Orcus, WASP-12b
+* ✅Mansion (a quad and a pair): Gonggong, Poltergeist
+* ✅Six of a Kind: Tyche, 51 Pegasi b
+* ✅Long Straight: Chiron, TRAPPIST-1e
+* ✅Long Flush: Vesta, CoRoT-7b
+* ✅Flushed Three Pairs: Pallas, Gliese 581c
+* ✅Flushed Two Trios: Juno, 55 Cancri e
+* ✅Monochromatic Mansion: Hygiea, Phobetor
+* ✅Flush Six: Salacia, Kepler-10c
 
-# Six Card Hand Variants (to be done next)
+# Six Card Hand Variants
 * ✅Catwalk (a hand of A to 9): Pholus
 * ✅Indispensable (a hand of 5 to 10): Bienor
 * ✅Ship (a hand of A to 6): Nessus
@@ -43,7 +43,7 @@ This (half-baked) mod is an expansion adding a whole lot of new hand types and c
 * ✅Devil's Deal (six sixes): Vulcan
 * ✅Angel's Horns (six sixes of the same suit): Actaea
 
-# ⛔Spectrum-based Content (code mostly from Bunco, requires similar mods like Paperback or Sigil to operate)
+# ⛔Spectrum-based Content (code mostly from Spectrum Framework, requires other mods like Bunco, Paperback or Sigil to operate)
 * Rainbow Road (a broadway in five different suits): Hi'iaka
 * Spectral Mid-Hand: 1996TO66
 * Colour Wheel: Namaka
