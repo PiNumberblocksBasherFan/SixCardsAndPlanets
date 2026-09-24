@@ -13,7 +13,7 @@ SMODS.PokerHand{ -- Spectrum House
         { 'bunc_FLEURON_8',    true }
     },
     evaluate = function(parts)
-        if #parts._3 < 1 or #parts._2 < 2 or not next(parts.spectrum_spectrum) then return {} end
-        return {SMODS.merge_lists (parts._all_pairs, parts.spectrum_spectrum)}
+        if #parts._3 < 1 or #parts._2 < 2 or not next(parts.spectrum) then return {} end
+        return {SMODS.merge_lists (parts._all_pairs, parts.spectrum)}
     end
 }
