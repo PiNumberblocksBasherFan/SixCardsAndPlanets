@@ -10,7 +10,7 @@ SMODS.Consumable {
         y = 5
     },
     config = {
-        hand_type = 'mxms_indispensable_sp',
+        hand_type = 'mxms_midhandsp',
     },
     otm_credits = {
         art = { "PiNumberblocksBasherFan" },
