@@ -1,5 +1,5 @@
 SMODS.PokerHand{ -- Spectrum
-    key = 'Spectrum',
+    key = 'spectrum',
     visible = false,
     chips = 50,
     mult = 6,
