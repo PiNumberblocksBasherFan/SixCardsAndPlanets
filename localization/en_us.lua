@@ -1,7 +1,7 @@
 return {
     descriptions = {
         Planet = {
-            c_mxms_cancri = {
+            c_mxms_cancri = { -- Exoplanets (official)
                 name = '55 Cancri e',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
@@ -99,7 +99,7 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
-            c_mxms_varuna = {
+            c_mxms_varuna = { -- TNOs and asteroids for six card hands
                 name = 'Varuna',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
@@ -187,7 +187,7 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
-            c_mxms_ganymede = {
+            c_mxms_ganymede = { -- Satellites for variants
                 name = 'Ganymede',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
@@ -331,7 +331,7 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
-            c_mxms_pholus = {
+            c_mxms_pholus = { -- Centaurs for six card variants
                 name = 'Pholus',
                 text = {
                     "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
@@ -427,6 +427,70 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_quaoar = { -- Extra objects for spectrum hands
+                name = 'Quaoar',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_haumea = {
+                name = 'Haumea',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_sedna = {
+                name = 'Sedna',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_makemake = {
+                name = 'Makemake',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_hiiaka = {
+                name = 'Hiʻiaka',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_1996to66= {
+                name = '1996TO66',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_namaka = {
+                name = 'Namaka',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_2002tx300 = {
+                name = '2002TX300',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -441,7 +505,7 @@ return {
             k_mxms_kbo = 'Kuiper Belt Object'
         },
         poker_hands = {
-            ["mxms_broadway"] = "Broadway"
+            ["mxms_broadway"] = "Broadway" -- Five card variants
             ["mxms_midhand"] = "Mid-Hand"
             ["mxms_wheel"] = "Wheel"
             ["mxms_wp_straight"] = "Warped Straight"
@@ -451,7 +515,7 @@ return {
             ["mxms_wp_straight_f"] = "Warped Straight Flush"
             ["mxms_horsemen"] = "Horsemen"
             ["mxms_square"] = "Square Power"
-            ["mxms_6oak"] = "Six of a Kind",
+            ["mxms_6oak"] = "Six of a Kind", -- Six card hands
             ["mxms_double_triple"] = "Two Trios",
             ["mxms_f_6oak"] = "Flush Six",
             ["mxms_f_double_triple"] = "Flushed Two Trios",
@@ -462,7 +526,7 @@ return {
             ["mxms_s_straight_f"] = "Long Straight Flush",
             ["mxms_s_straight"] = "Long Straight",
             ["mxms_three_pair"] = "Three Pairs",
-            ["mxms_catwalk"] = "Catwalk",
+            ["mxms_catwalk"] = "Catwalk", -- Six card variants
             ["mxms_indispensable"] = "Indispensable"
             ["mxms_ship"] = "Ship"
             ["mxms_wp_s_straight"] = "Long Warped Straight"
@@ -474,9 +538,17 @@ return {
             ["mxms_angels_horns"] = "Angel's Horns"
             ["mxms_staircase"] = "Staircase"
             ["mxms_waterfall"] = "Waterfall"
+            ["spectrum"] = "Spectrum" -- Spectrum based hands
+            ["straight_sp"] = "Straigth Spectrum"
+            ["sp_house"] = "Spectrum House"
+            ["sp_5oak"] = "Spectrum Five"
+            ["mxms_rainbow_road"] = "Rainbow Road"
+            ["mxms_midhandsp"] = "Mid-Handed Spectrum"
+            ["mxms_colour_wheel"] = "Colour Wheel"
+            ["mxms_wp_straight_sp"] = "Warped Straight Spectrum"
         },
         poker_hand_descriptions = {
-            ["mxms_broadway"] = {
+            ["mxms_broadway"] = { -- Five card variants
                 "A five-card straight from ace to ten"
             },
             ["mxms_midhand"] = {
@@ -510,7 +582,7 @@ return {
             ["mxms_square"] = {
                 "Four fours or four nines"
             },
-            ["mxms_6oak"] = {
+            ["mxms_6oak"] = { -- Six card hands
                 "6 cards with the same rank"
             },
             ["mxms_double_triple"] = {
@@ -548,7 +620,7 @@ return {
             ["mxms_three_pair"] = {
                 "3 Pairs of cards with different ranks"
             },
-            ["mxms_catwalk"] = {
+            ["mxms_catwalk"] = { --Six card variants
                 "A six-card straight from ace to nine"
             },
             ["mxms_indispensable"] = {
@@ -586,6 +658,33 @@ return {
             ["mxms_angels_horns"] = {
                 "Three pairs with consecutive",
                 "ranks and the same suit"
+            },
+            ["spectrum"] = { -- Spectrum based hands
+                "A hand containing five different suits"
+            },
+            ["straight_sp"] = {
+                "5 cards in a row (consecutive ranks) in different suits"
+            },
+            ["sp_house"] = {
+                "A pair and a three of a kind with",
+                "all cards in different suits"
+            },
+            ["sp_5oak"] = {
+                "Five cards of the same rank but different suits"
+            },
+            ["mxms_rainbow_road"] = {
+                "A five-card straight spectrum from ace to ten"
+            },
+            ["mxms_midhandsp"] = {
+                "A five-card straight spectrum from",
+                "six to ten or from five to nine"
+            },
+            ["mxms_colour_wheel"] = {
+                "A five-card straight spectrum from ace to five"
+            },
+            ["mxms_wp_straight_f"] = {
+                "A five-card straight spectrum where",
+                "the ace acts as both high and low"
             },
         },
         v_dictionary = {
