@@ -14,7 +14,7 @@ SMODS.Consumable {
         softlock = true
     },
     otm_credits = {
-        art = { "PinUmberblocksBasherFan" },
+        art = { "PiNumberblocksBasherFan" },
         code = { "theAstra" }
     },
     cost = 4,
