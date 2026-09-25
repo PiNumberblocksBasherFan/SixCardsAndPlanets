@@ -491,6 +491,54 @@ return {
                     "{C:mult}+#3#{} Mult and",
                     "{C:chips}+#4#{} chips",
                 },
+            c_mxms_hektor = {
+                name = 'Hektor',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_eureka = {
+                name = 'Eureka',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_atira = {
+                name = 'Atira',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_lempo = {
+                name = 'Lempo',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_arawn = {
+                name = 'Arawn',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
+            c_mxms_otrera = {
+                name = 'Otrera',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}lvl.#1#{S:0.8}){} Level up",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} Mult and",
+                    "{C:chips}+#4#{} chips",
+                },
             }
         },
     },
@@ -503,6 +551,9 @@ return {
             k_mxms_satellite = 'Satellite'
             k_mxms_retrograde = 'Retrograde Object'
             k_mxms_kbo = 'Kuiper Belt Object'
+            k_mxms_trojan = 'Trojan'
+            k_mxms_neo = 'Near-Earth Object'
+            k_mxms_q_satellite = 'Quasi-Satellite'
         },
         poker_hands = {
             ["mxms_broadway"] = "Broadway" -- Five card variants
@@ -546,6 +597,18 @@ return {
             ["mxms_midhandsp"] = "Mid-Handed Spectrum"
             ["mxms_colour_wheel"] = "Colour Wheel"
             ["mxms_wp_straight_sp"] = "Warped Straight Spectrum"
+            ["mxms_sp_6oak"] = "Spectrum Six",
+            ["mxms_sp_double_triple"] = "Spectral Two Trios",
+            ["mxms_sp_party"] = "Rainbow Mansion",
+            ["mxms_sp_three_pair"] = "Spectral Three Pairs"
+            ["mxms_s_spectrum"] = "Long Spectrum",
+            ["mxms_s_straight_sp"] = "Long Straight Spectrum",
+            ["mxms_glacier"] = "Glacier",
+            ["mxms_indispensable_sp"] = "Indispensable Spectrum",
+            ["mxms_submarine"] = "Submarine",
+            ["mxms_wp_s_straight_sp"] = "Long Warped Straight Spectrum"
+            ["mxms_heaven_gateway"] = "Heaven Gateway",
+            ["mxms_hexachrome"] = "Hexachrome",
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = { -- Five card variants
@@ -655,7 +718,7 @@ return {
             ["mxms_staircase"] = {
                 "Three pairs with consecutive ranks"
             },
-            ["mxms_angels_horns"] = {
+            ["mxms_waterfall"] = {
                 "Three pairs with consecutive",
                 "ranks and the same suit"
             },
@@ -685,6 +748,49 @@ return {
             ["mxms_wp_straight_f"] = {
                 "A five-card straight spectrum where",
                 "the ace acts as both high and low"
+            },
+            ["mxms_s_spectrum"] = {
+                "A hand containing six different suits"
+            },
+            ["mxms_sp_three_pair"] = {
+                "3 Pairs of cards with different ranks with",
+                "all 6 cards having different suits"
+            },
+            ["mxms_sp_double_triple"] = {
+                "Two instances of Three of a Kind with",
+                "all 6 cards having different suits"
+            },
+            ["mxms_sp_party"] = {
+                "A 4 of a kind and a Pair with",
+                "all 6 cards having different suits"
+            },
+            ["mxms_sp_6oak"] = {
+                "6 cards with the same rank with",
+                "all cards having different suits"
+            },
+            ["mxms_s_straight_sp"] = {
+                "6 cards in a row (consecutive ranks) with",
+                "all cards having different suits"
+            },
+            ["mxms_glacier"] = {
+                "A six-card straight spectrum from ace to nine"
+            },
+            ["mxms_indispensable_sp"] = {
+                "A six-card straight spectrum from five to ten"
+            },
+            ["mxms_submarine"] = {
+                "A six-card straight spectrum from ace to six"
+            },
+            ["mxms_wp_s_straight_sp"] = {
+                "A six-card straight spectrum where",
+                "the ace acts as both high and low"
+            },
+            ["mxms_hexachrome"] = {
+                "A hand containing 6 sixes in different suits"
+            },
+            ["mxms_heaven_gateway"] = {
+                "Three pairs with consecutive",
+                "ranks but different suit"
             },
         },
         v_dictionary = {
