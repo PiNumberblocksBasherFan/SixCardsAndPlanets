@@ -491,6 +491,54 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_hektor = {
+                name = '赫克特',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_eureka = {
+                name = '尤里卡星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_atira = {
+                name = '阿提拉',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_lempo = {
+                name = '惡神星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_arawn = {
+                name = '酆神星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_otrera = {
+                name = '小行星385571',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
@@ -503,6 +551,9 @@ return {
             k_mxms_satellite = '衛星'
             k_mxms_retrograde = '逆行天體'
             k_mamx_kbo = '柯伊柏帶天體'
+            k_mxms_trojan = '特洛伊小行星'
+            k_mxms_neo = '近地小行星'
+            k_mxms_q_satellite = '準衛星'
         },
         poker_hands = {
             ["mxms_broadway"] = "百老匯街" -- 五卡牌型變種
@@ -546,6 +597,19 @@ return {
             ["mxms_midhandsp"] = "中型光譜順"
             ["mxms_colour_wheel"] = "色環"
             ["mxms_wp_straight_sp"] = "扭曲光譜順"
+            ["mxms_sp_6oak"] = "光譜六條",
+            ["mxms_sp_double_triple"] = "光譜兩組三條",
+            ["mxms_sp_party"] = "彩色豪宅",
+            ["mxms_sp_three_pair"] = "光譜三對",
+            ["mxms_s_spectrum"] = "超級光譜",
+            ["mxms_s_straight_sp"] = "長光譜順",
+            ["mxms_glacier"] = "冰河",
+            ["mxms_indispensable_sp"] = "光譜不可或缺",
+            ["mxms_submarine"] = "潛艇",
+            ["mxms_wp_s_straight_sp"] = "扭曲長光譜順"
+            ["mxms_heaven_gateway"] = "天堂之門",
+            ["mxms_hexachrome"] = "六色",
+            
         },
         poker_hand_descriptions = {
             ["mxms_broadway"] = { -- 五卡牌型變種
@@ -676,6 +740,46 @@ return {
             },
             ["mxms_wp_straight_sp"] = {
                 "A同時以最高和最低形式出現的光譜順"
+            },
+            ["mxms_s_spectrum"] = {
+                "六張不同花色的牌"
+            },
+            ["mxms_sp_three_pair"] = {
+                "三組不同數字的對子，",
+                "而且所有卡牌不同花色"
+            },
+            ["mxms_sp_double_triple"] = {
+                "兩組三張相同數字的卡，",
+                "而且所有卡牌不同花色"
+            },
+            ["mxms_sp_party"] = {
+                "一個四條和一對，當中",
+                "所有卡牌都有不同花色"
+            },
+            ["mxms_sp_6oak"] = {
+                "六張相同數字但不同花色的卡"
+            },
+            ["mxms_s_straight_sp"] = {
+                "六張連續數字的卡，",
+                "而且所有卡牌不同花色"
+            },
+            ["mxms_glacier"] = {
+                "由A至9組成的長光譜順"
+            },
+            ["mxms_indispensable_sp"] = {
+                "由5至10組成的長光譜順"
+            },
+            ["mxms_submarine"] = {
+                "由A至6組成的長光譜順"
+            },
+            ["mxms_wp_s_straight_sp"] = {
+                "A同時以最高和最低形式出現的長光譜順"
+            },
+            ["mxms_hexachrome"] = {
+                "六張不同花色的6號牌"
+            },
+            ["mxms_heaven_gateway"] = {
+                "三組連續數字但不同花色的對子"
             },
         },
         v_dictionary = {
