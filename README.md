@@ -50,12 +50,12 @@ This *(half-baked)* mod is an expansion adding a whole lot of new hand types and
 * ✅Mid-Handed Spectrum: 1996TO66
 * ✅Colour Wheel: Namaka
 * ⚠️Warped Straight Spectrum: 2002TX300
-* ⛔Long Spectrum (six different suits): Hektor
-* ⛔Spectral Three Pairs: Eureka
-* ⛔Spectral Two Trios: Atira
-* ⛔Rainbow Mansion: Lempo
-* ⛔Spectrum Six: Arawn
-* ⛔Long Straight Spectrum: Otrera
+* ✅Long Spectrum (six different suits): Hektor
+* ✅Spectral Three Pairs: Eureka
+* ✅Spectral Two Trios: Atira
+* ✅Rainbow Mansion: Lempo
+* ✅Spectrum Six: Arawn
+* ✅Long Straight Spectrum: Otrera
 * ⛔Glacier (a catwalk in six different suits): Clete
 * ⛔Indispensable Spectrum: 2001QR322
 * ⛔Submarine (a ship in six different suits): 2004KV18
