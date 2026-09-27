@@ -56,9 +56,9 @@ This *(half-baked)* mod is an expansion adding a whole lot of new hand types and
 * ✅Rainbow Mansion: Lempo
 * ✅Spectrum Six: Arawn
 * ✅Long Straight Spectrum: Otrera
-* ⛔Glacier (a catwalk in six different suits): Clete
-* ⛔Indispensable Spectrum: 2001QR322
-* ⛔Submarine (a ship in six different suits): 2004KV18
-* ⛔Long Warped Straight Spectrum: 2010EN65
-* ⛔Heaven Gateway (a staircase in six different suits): Lick
-* ⛔Hexachrome (six sixes in six different suits): Huya
+* ✅Glacier (a catwalk in six different suits): Clete
+* ✅Indispensable Spectrum: 2001QR322
+* ✅Submarine (a ship in six different suits): 2004KV18
+* ⚠️Long Warped Straight Spectrum: 2010EN65
+* ⚠️Heaven Gateway (a staircase in six different suits): Lick
+* ✅Hexachrome (six sixes in six different suits): Huya
