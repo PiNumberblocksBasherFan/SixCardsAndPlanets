@@ -412,7 +412,7 @@ return {
                     "{C:chips}+#4#{} 籌碼",
                 },
             c_mxms_albion = {
-                name = '小行星15760',
+                name = '元神星',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
                     "{C:attention}#2#",
@@ -516,7 +516,7 @@ return {
                     "{C:chips}+#4#{} 籌碼",
                 },
             c_mxms_lempo = {
-                name = '惡神星',
+                name = '倫波星',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
                     "{C:attention}#2#",
