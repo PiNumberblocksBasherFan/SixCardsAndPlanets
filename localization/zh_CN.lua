@@ -412,7 +412,7 @@ return {
                     "{C:chips}+#4#{} 籌碼",
                 },
             c_mxms_albion = {
-                name = '元神星',
+                name = '小行星15760',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
                     "{C:attention}#2#",
@@ -468,7 +468,7 @@ return {
                     "{C:chips}+#4#{} 籌碼",
                 },
             c_mxms_1996to66 = {
-                name = '1996TO66',
+                name = '小行星19308',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
                     "{C:attention}#2#",
@@ -484,7 +484,7 @@ return {
                     "{C:chips}+#4#{} 籌碼",
                 },
             c_mxms_2002tx300 = {
-                name = '2002TX300',
+                name = '小行星55636',
                 text = {
                     "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
                     "{C:attention}#2#",
@@ -539,6 +539,54 @@ return {
                     "{C:mult}+#3#{} 倍率 和",
                     "{C:chips}+#4#{} 籌碼",
                 },
+            c_mxms_clete = {
+                name = '小行星385695',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_2001qr322 = {
+                name = '小行星612243',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_2004kv18 = {
+                name = '2004KV18',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_2010en65 = {
+                name = '小行星316179',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_huya = {
+                name = '雨神星',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
+            c_mxms_lick = {
+                name = '小行星1951',
+                text = {
+                    "{S:0.8}({S:0.8,V:1}等級 lvl.#1#{S:0.8}){} 升級",
+                    "{C:attention}#2#",
+                    "{C:mult}+#3#{} 倍率 和",
+                    "{C:chips}+#4#{} 籌碼",
+                },
             }
         },
     },
@@ -554,6 +602,7 @@ return {
             k_mxms_trojan = '特洛伊小行星'
             k_mxms_neo = '近地小行星'
             k_mxms_q_satellite = '準衛星'
+            k_mxms_mars_crosser = '火星軌道穿越小行星'
         },
         poker_hands = {
             ["mxms_broadway"] = "百老匯街" -- 五卡牌型變種
